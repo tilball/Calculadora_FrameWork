@@ -91,5 +91,8 @@
   <ItemGroup>
     <None Include="Resources\zhot-math-solving-math.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\calculadora.jpg" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

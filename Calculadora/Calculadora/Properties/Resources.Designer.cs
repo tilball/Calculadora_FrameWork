@@ -63,19 +63,9 @@ namespace Calculadora.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _65964693_uma_desenho_animado_calculadora_personagem_acenando_e_sorridente_vetor {
+        internal static System.Drawing.Bitmap calculadora {
             get {
-                object obj = ResourceManager.GetObject("_65964693_uma_desenho_animado_calculadora_personagem_acenando_e_sorridente_vetor", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap potz_potatoz {
-            get {
-                object obj = ResourceManager.GetObject("potz_potatoz", resourceCulture);
+                object obj = ResourceManager.GetObject("calculadora", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
